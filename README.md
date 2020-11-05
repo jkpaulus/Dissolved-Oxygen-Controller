@@ -2,6 +2,8 @@
 
 Contains the following:
 
+-Users Manual / Quick Start Guide
+
 -Part List
 
 -Adruino IDE 
